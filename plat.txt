@@ -1,0 +1,3 @@
+pizza;1000
+hamburger;2000
+bonjour;500000
